@@ -1,2 +1,3 @@
 My first Git experiment 
 Second line of text 
+Third line added from GitHub
